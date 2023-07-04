@@ -1,0 +1,152 @@
+.header {
+    /* color: red; */
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #703b09;
+    /* padding: 20px; */
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+
+    /* border-radius: 0px; */
+  }
+  .Buttons{
+    background-color: #dad735;
+    outline: none;
+    cursor: pointer;
+    border: 1px solid #966909;
+    color: #966909;
+    font-family: inherit;
+    font-size: 1.2em;
+    padding: 15px 30px;
+    /* -webkit-box-shadow: 2px 2px 2px #966909; */
+    box-shadow: 2px 2px 2px #966909;
+
+  }
+  /* .img{
+    padding: 8px;
+    background-color: #fff;
+    padding: 8px;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border-radius: 15px;
+  } */
+  .img{
+    width: 10px;
+  height: 256px;
+  box-sizing: border-box;
+  border-radius: 15px;
+  justify-content: right;
+  }
+  
+.navbar {
+    /* Add styles for the navigation bar here */
+    /* background-color: #f2f2f2; */
+    /* padding: 100px;
+    text-align: right;
+    */
+    height: 100%;
+    display: block;
+    font-family: Open Sans,sans-serif;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    height: 100%;
+  }
+  
+  .navbar li {
+    /* margin-right: 10px;
+    color: white; */
+    margin: 0;
+    display: flex;
+    height: 100%;
+    width: auto;
+    text-align: -webkit-match-parent;
+    /* -ms-flex-align: center; */
+    align-items: center;
+    /* box-sizing: border-box; */
+  }
+  
+  .navbar li a {
+    
+    
+    background-color: #8f5c2c;
+    border-bottom: 4px solid #40a4c8;
+    color: #fff;
+    padding: 16px 10px;
+     
+    font-weight: bold;
+  }
+
+  .buildControl{
+    width: 50%;
+    background-color: #cf8f2e;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
+    box-shadow: 10 20px 50px #ccc;
+    margin: auto;
+    padding: 300px ;
+}
+.buildControlB{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0 ;
+}
+.buildControlL{
+  padding: 20px;
+  font-weight: 600;
+  /* margin: 100; */
+  width: 80px;
+  display: block;
+  font-family: Open Sans,sans-serif;
+}
+.buildControlD{
+  background-color: #ac9980;
+    border: 1px solid #7e7365;
+    color: #ccc;
+    cursor: default;
+    display: block;
+    font: inherit;
+    padding: 5px;
+    margin: 0 5px;
+    width: 80px;
+    border: 1px solid #aa6817;
+    cursor: pointer;
+    outline: none
+}
+.buildControlM{
+  display: block;
+  font: inherit;
+  padding: 5px;
+  margin: 0 5px;
+  width: 80px;
+  border: 1px solid #aa6817;
+  cursor: pointer;
+  outline: none
+}
+.LayoutC{
+  margin-top: 72px;
+  display: block;
+      font-family: Open Sans,sans-serif;
+}

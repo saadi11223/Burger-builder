@@ -1,0 +1,55 @@
+.Input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.InputLable{
+font-weight: 700;
+display: block;
+margin-bottom: 8px;
+}
+.Auth{
+    width: 500px;
+    margin: 200px auto;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 50px;
+    box-sizing: border-box;
+}
+main{
+    margin-top: 72px;
+}
+.InputEle{
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+.Button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: 700;
+    color: #5c9210
+}
+.ButtonS{
+    color: #944317;
+    background-color: transparent;
+    border: none;
+    /* color: #fff; */
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: 700;
+}

@@ -1,0 +1,55 @@
+/* .buildControl{
+    width: 100%;
+    background-color: #cf8f2e;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
+    box-shadow: 10 20px 50px #ccc;
+    margin: auto;
+    padding: 300px ;
+}
+.buildControlB{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0 ;
+}
+.buildControlL{
+  padding: 20px;
+  font-weight: 600;
+  /* margin: 100; */
+  /* width: 80px;
+  display: block;
+  font-family: Open Sans,sans-serif;
+}
+.buildControlD{
+  background-color: #ac9980;
+    border: 1px solid #7e7365;
+    color: #ccc;
+    cursor: default;
+    display: block;
+    font: inherit;
+    padding: 5px;
+    margin: 0 5px;
+    width: 80px;
+    border: 1px solid #aa6817;
+    cursor: pointer;
+    outline: none
+}
+.buildControlM{
+  display: block;
+  font: inherit;
+  padding: 5px;
+  margin: 0 5px;
+  width: 80px;
+  border: 1px solid #aa6817;
+  cursor: pointer;
+  outline: none
+}
+.LayoutC{
+  margin-top: 72px;
+  display: block;
+  font-family: Open Sans,sans-serif;
+} */ 
